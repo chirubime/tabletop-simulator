@@ -10,7 +10,7 @@ Companion to the Custom Artifact Expansion Set found here: [Custom Artifact Expa
 
 2. On the top of your screen, select the <b>Modding</b> tab.
 
-3. Click <b>Scripting</b> from the the <b>Modding</b> drop down.
+3. Click <b>Scripting</b> from the <b>Modding</b> drop-down.
 
 4. In the <b>Lua</b> tab on the left, find the object <b>Data Helper.</b>
 
